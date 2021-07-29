@@ -14,7 +14,7 @@ https:\/\/ios\.baertt\.com\/v5\/\w+\/withdraw\d?\.json url script-request-body h
 
 
 
-https:\/\/kandian\.wkandian\.com\/V17\/NewTaskIos\/getTaskList url script-request-header https://raw.githubusercontent.com/liu269569205/qx/master/Task/youth.js
+^https:\/\/kandian\.wkandian\.com\/V17\/NewTaskIos\/getTaskList(.*?) url script-request-header https://raw.githubusercontent.com/liu269569205/qx/master/Task/youth.js
 
 https:\/\/kandian\.wkandian\.com\/v5\/article\/info\/get\.json url script-request-header https://raw.githubusercontent.com/liu269569205/qx/master/Task/youth.js
 
