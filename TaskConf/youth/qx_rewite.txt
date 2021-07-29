@@ -4,7 +4,7 @@ https:\/\/kd\.youth\.cn\/WebApi\/NewTaskIos\/getTaskList url script-request-head
 
 https:\/\/ios\.baertt\.com\/v5\/article\/info\/get\.json url script-request-header https://raw.githubusercontent.com/liu269569205/qx/master/Task/youth.js
 
-https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/liu269569205/qx/Task/youth.js
+https:\/\/ios\.baertt\.com\/v5\/user\/stay\.json url script-request-body https://raw.githubusercontent.com/Sunert/liu269569205/qx/master/Task/youth.js
 
 https:\/\/ios\.baertt\.com\/v5\/task\/browse_start\.json url script-request-body https://raw.githubusercontent.com/liu269569205/qx/master/Task/youth_gain.js
 
